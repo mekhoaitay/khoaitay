@@ -1,3 +1,4 @@
+Hãy đóng vai một chuyên gia lập trình python có nhiều năm kinh nghiệm trên app develop Streamlit, hãy tạo ra một khung chat trên Gemini, giữ nguyên các đoạn code khác.
 import streamlit as st
 import pandas as pd
 from google import genai
